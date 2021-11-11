@@ -1,0 +1,9 @@
+1. wc -w *
+2. tar cvf T.tar [PATH]
+3. wc -w * | sort -nr
+4. du * | sort -nr
+5. grep -ri "test" /
+6. find / -empty
+7. find / -type f -mtime +7
+8. find / -type f -mtime +7 -delete
+9. find / -type f -size +1M -size -2M
